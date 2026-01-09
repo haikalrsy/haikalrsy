@@ -147,21 +147,6 @@ const haikal = {
 <img height="60"/>
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalrasyaputraa/haikalrasyaputraa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haikalrasyaputraa/haikalrasyaputraa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haikalrasyaputraa/haikalrasyaputraa/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-
-<img height="60"/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=fff" />
+  <h3>✨ Thanks for visiting! ✨</h3>
+  <p>Feel free to reach out if you want to collaborate on a project or just chat!</p>
 </div>
