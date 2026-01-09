@@ -93,24 +93,19 @@ const haikal = {
 
 <h3 align="left">🔥 My Stats :</h3>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikalrasyaputraa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalrasyaputraa&theme=dracula&hide_border=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=haikalrsy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalrsy&theme=dracula&hide_border=false&layout=compact" height="150"/>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalrasyaputraa&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalrsy&theme=dracula&hide_border=false" height="150"/>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=haikalrasyaputraa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=haikalrsy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150"/>
 </div>
+
 
 ###
 
