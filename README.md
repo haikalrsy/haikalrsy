@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://decider.com/wp-content/uploads/2025/07/TSITP-305-PEACH-SCENE.gif?w=642" width="600" />
 </div>
 
 <h1 align="center">Hello World! I'm Muhammad Haikal Rasyaputra</h1>
@@ -133,11 +133,11 @@ const haikal = {
 </div>
 
 
-###
+
 
 <img height="60"/>
 
 <div align="center">
-  <h3>✨ Thanks for visiting! ✨</h3>
+  <h3>Thanks for visiting! </h3>
   <p>Feel free to reach out if you want to collaborate on a project or just chat!</p>
 </div>
