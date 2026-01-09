@@ -113,11 +113,10 @@ const haikal = {
 
 <h3 align="center">📊 Contribution Graph</h3>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikalrasyaputraa&theme=dracula&hide_border=false&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2" alt="activity graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haikalrsy&theme=dracula&hide_border=false" />
 </div>
+
 
 ###
 
