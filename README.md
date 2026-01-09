@@ -124,9 +124,8 @@ const haikal = {
 <h3 align="center">🎧 Spotify</h3>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312jisik37f436ektgdc2gouyf5q&count=5&unique=true" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312jisik37f436ektgdc2gouyf5q&count=5&unique=true&width=600" />
 </div>
-
 ###
 
 <div align="center">
