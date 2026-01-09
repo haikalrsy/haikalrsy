@@ -2,7 +2,7 @@
   <img src="https://decider.com/wp-content/uploads/2025/07/TSITP-305-PEACH-SCENE.gif?w=642" width="600" />
 </div>
 
-<h1 align="center">Hello World! I'm Muhammad Haikal Rasyaputra</h1>
+<h1 align="center">Hello World, I'm Muhammad Haikal Rasyaputra</h1>
 
 ###
 
